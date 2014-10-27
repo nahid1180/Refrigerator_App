@@ -1,0 +1,8 @@
+C:\Users\BITM-301-PC\Desktop\24-10-14\RefrigeratorApp\RefrigeratorApp\bin\Debug\RefrigeratorApp.exe.config
+C:\Users\BITM-301-PC\Desktop\24-10-14\RefrigeratorApp\RefrigeratorApp\bin\Debug\RefrigeratorApp.exe
+C:\Users\BITM-301-PC\Desktop\24-10-14\RefrigeratorApp\RefrigeratorApp\bin\Debug\RefrigeratorApp.pdb
+C:\Users\BITM-301-PC\Desktop\24-10-14\RefrigeratorApp\RefrigeratorApp\obj\Debug\RefrigeratorApp.RefrigeratorUI.resources
+C:\Users\BITM-301-PC\Desktop\24-10-14\RefrigeratorApp\RefrigeratorApp\obj\Debug\RefrigeratorApp.Properties.Resources.resources
+C:\Users\BITM-301-PC\Desktop\24-10-14\RefrigeratorApp\RefrigeratorApp\obj\Debug\RefrigeratorApp.csproj.GenerateResource.Cache
+C:\Users\BITM-301-PC\Desktop\24-10-14\RefrigeratorApp\RefrigeratorApp\obj\Debug\RefrigeratorApp.exe
+C:\Users\BITM-301-PC\Desktop\24-10-14\RefrigeratorApp\RefrigeratorApp\obj\Debug\RefrigeratorApp.pdb
